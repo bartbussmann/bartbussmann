@@ -12,31 +12,40 @@
   </a>
 </div>
 
-I'm Bart, an aspiring AI alignment researcher with hands-on machine learning experience in research and industry. I'm now hoping to contribute to a better future for everyone by tackling complex technical problems in AI safety.
+I'm Bart, an aspiring AI alignment researcher with hands-on machine learning experience in both research and industry. I aim to contribute to a brighter future for all by addressing complex technical issues in AI safety.
 
 ## 🔭 Current Focus
- - Exploring the Hierarchical Structures of Features of Large Language Models with Sparse Autoencoders
- - 
+
+- Exploring the Hierarchical Structures of Features of Large Language Models with Sparse Autoencoders.
+
 ## 🌱 Education
- - MSc. Artificial Intelligence, University of Amsterdam (2016-2019)
- - Bachelor's degree, University College Twente (2013-2016)
+
+- MSc. Artificial Intelligence, University of Amsterdam (2016-2019)
+- Bachelor's degree, University College Twente (2013-2016)
+
 ## 💼 Work Experience
- - Independent Alignment Researcher and Freelancer (2023 - Now)
- - Machine Learning Researcher, IDLab, University of Antwerp and imec (2019-2022)
- - Machine Learning Developer, Bit Amsterdam (2017-2019)
- - Teaching Assistant, VU University Amsterdam (2017-2018)
+
+- Independent Alignment Researcher and Freelancer (2023 - Now)
+- Machine Learning Researcher, IDLab, University of Antwerp and imec (2019-2022)
+- Machine Learning Developer, Bit Amsterdam (2017-2019)
+- Teaching Assistant, VU University Amsterdam (2017-2018)
+
 ## 📜 Publications
-  - Neural Additive Vector Autoregression Models for Causal Discovery in Time Series (2021)
-  - Towards Empathic Deep Q-Learning (2019)
-  - Benefits of Social Learning in Physical Robots (2018)
+
+- [Neural Additive Vector Autoregression Models for Causal Discovery in Time Series](https://arxiv.org/abs/2010.09429) (2021)
+- [Towards Empathic Deep Q-Learning](https://arxiv.org/abs/1906.10918) (2019)
+
 ## 🏆 Awards and Competitions
-  - Trojan Detection Challenge Red Teaming Track - Best Black Box Method, NeurIPS (2023)
-  - PRINCE Out-of-distribution Generalization Challenge - Winner, ECML-PKDD (2022)
-  - NeurIPS Learning By Doing Competition (CHEM Track) - 3rd place (2021)
-  - Best Student Paper Award, International Conference on Discovery Science (2021)
-  - NeurIPS Causality for Climate Competition - 2nd place (2019)
-  - T500 - Best Young Digital Minds, TNW & Accenture (2019)
-## Writing
-  - 60+ Possible Futures
+
+- Trojan Detection Challenge Red Teaming Track - Best Black Box Method, NeurIPS (2023)
+- PRINCE Out-of-distribution Generalization Challenge - Winner, ECML-PKDD (2022)
+- Learning By Doing Competition (CHEM Track) - 3rd place, NeurIPS (2021)
+- Causality for Climate Competition - 2nd place, NeurIPS (2019)
+
+## ✏️ Writing
+
+- [60+ Possible Futures](https://www.lesswrong.com/posts/SRW9WAEEKJEgHAhSy/60-possible-futures)
+- [Interpreting Modular Addition in MLPs](https://www.lesswrong.com/posts/cbDEjnRheYn38Dpc5/interpreting-modular-addition-in-mlps)
+- [My Trial Period as an Indepedent Alignment Researcher](https://www.lesswrong.com/posts/y5QYnvYXxwDRex7hn/my-trial-period-as-an-independent-alignment-researcher)
 
 
