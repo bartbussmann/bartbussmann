@@ -1,4 +1,4 @@
-# Hi there, I'm Bart Bussmann👋
+# Hi there👋, I'm Bart.
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/bartbussmann/">
