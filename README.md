@@ -43,7 +43,8 @@ I'm Bart, an aspiring AI alignment researcher with hands-on machine learning exp
 - Causality for Climate Competition - 2nd place, NeurIPS (2019)
 
 ## ✏️ Writing
-
+- [BatchTopK: A Simple Improvement for TopK-SAEs](https://www.alignmentforum.org/posts/Nkx6yWZNbAsfvic98/batchtopk-a-simple-improvement-for-topk-saes)
+- [Stitching SAEs of different sizes](https://www.alignmentforum.org/posts/baJyjpktzmcmRfosq/stitching-saes-of-different-sizes)
 - [60+ Possible Futures](https://www.lesswrong.com/posts/SRW9WAEEKJEgHAhSy/60-possible-futures)
 - [Interpreting Modular Addition in MLPs](https://www.lesswrong.com/posts/cbDEjnRheYn38Dpc5/interpreting-modular-addition-in-mlps)
 - [My Trial Period as an Indepedent Alignment Researcher](https://www.lesswrong.com/posts/y5QYnvYXxwDRex7hn/my-trial-period-as-an-independent-alignment-researcher)
