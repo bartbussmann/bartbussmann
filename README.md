@@ -12,11 +12,11 @@
   </a>
 </div>
 
-I'm Bart, an aspiring AI alignment researcher with hands-on machine learning experience in both research and industry. I aim to contribute to a brighter future for all by addressing complex technical issues in AI safety.
+I'm Bart, an independent mechanistic interpretability researcher. I aim to contribute to a brighter future for all by addressing complex technical issues in AI safety.
 
 ## 🔭 Current Focus
 
-- Exploring the Hierarchical Structures of Features of Large Language Models with Sparse Autoencoders.
+- Exploring the concepts learned by LLMs and the relationships between them with Sparse Autoencoders.
 
 ## 🌱 Education
 
