@@ -42,7 +42,7 @@ I'm Bart, an independent mechanistic interpretability researcher. I aim to contr
 
 ## ✏️ Other Writing
 - [Learning Multi-Level Features with Matryoshka SAEs](https://www.alignmentforum.org/posts/rKM9b6B2LqwSB5ToN/learning-multi-level-features-with-matryoshka-saes) 
-- [Showing SAEs Are Not Atomic Using Meta-SAEs]([are not atomic using meta-saes](https://www.alignmentforum.org/posts/TMAmHh4DdMr4nCSr5/showing-sae-latents-are-not-atomic-using-meta-saes)
+- [Showing SAEs Are Not Atomic Using Meta-SAEs](https://www.alignmentforum.org/posts/TMAmHh4DdMr4nCSr5/showing-sae-latents-are-not-atomic-using-meta-saes)
 - [BatchTopK: A Simple Improvement for TopK-SAEs](https://www.alignmentforum.org/posts/Nkx6yWZNbAsfvic98/batchtopk-a-simple-improvement-for-topk-saes)
 - [Stitching SAEs of different sizes](https://www.alignmentforum.org/posts/baJyjpktzmcmRfosq/stitching-saes-of-different-sizes)
 - [60+ Possible Futures](https://www.lesswrong.com/posts/SRW9WAEEKJEgHAhSy/60-possible-futures)
