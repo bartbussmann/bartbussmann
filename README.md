@@ -28,6 +28,7 @@ I'm Bart, an independent mechanistic interpretability researcher. I aim to contr
 - Teaching Assistant, VU University Amsterdam (2017-2018)
 
 ## 📜 First-Author Publications
+- [Learning Multi-Level Features with Matryoshka Sparse Autoencoders](https://arxiv.org/abs/2503.17547) (2025)
 - [Sparse Autoencoders Do Not Find Canonical Units of Analysis](https://arxiv.org/abs/2502.04878) (2025)
 - [BatchTopK Sparse Autoencoders](https://arxiv.org/abs/2412.06410) (2024)
 - [Neural Additive Vector Autoregression Models for Causal Discovery in Time Series](https://arxiv.org/abs/2010.09429) (2021)
